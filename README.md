@@ -1,2 +1,2 @@
 # job-search
-Codes to make the the task of job search easy.
+Making the the task of job hunting easy.
